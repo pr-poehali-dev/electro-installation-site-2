@@ -9,8 +9,8 @@ const Hero = () => {
         </div>
         <h1 className="text-5xl font-bold mb-6">СЕВЕР-ЭНЕРГОСТРОЙ</h1>
         <p className="text-xl mb-8 max-w-3xl mx-auto">
-          Профессиональные услуги в области электротехники, автоматизации и
-          испытаний оборудования
+          Профессиональные услуги в сфере электромонтажа, автоматизации
+          производств и испытаний электрооборудования
         </p>
         <div className="flex justify-center space-x-4">
           <button className="bg-blue-600 hover:bg-blue-700 px-8 py-3 rounded-lg font-semibold transition-colors">
