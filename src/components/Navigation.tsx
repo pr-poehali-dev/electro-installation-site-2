@@ -17,7 +17,9 @@ const Navigation = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center space-x-2">
             <Icon name="Zap" className="text-blue-500" size={28} />
-            <span className="text-white font-bold text-xl">ЭлектроТех</span>
+            <span className="text-white font-bold text-xl">
+              СЕВЕР-ЭНЕРГОСТРОЙ
+            </span>
           </div>
 
           <div className="hidden md:flex space-x-8">
