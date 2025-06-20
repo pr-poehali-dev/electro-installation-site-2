@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="flex justify-center mb-6">
           <Icon name="Zap" className="text-blue-500" size={64} />
         </div>
-        <h1 className="text-5xl font-bold mb-6">ЭлектроТех</h1>
+        <h1 className="text-5xl font-bold mb-6">СЕВЕР-ЭНЕРГОСТРОЙ</h1>
         <p className="text-xl mb-8 max-w-3xl mx-auto">
           Профессиональные услуги в области электротехники, автоматизации и
           испытаний оборудования
